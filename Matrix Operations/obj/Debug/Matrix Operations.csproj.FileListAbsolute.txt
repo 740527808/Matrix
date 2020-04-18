@@ -1,0 +1,7 @@
+E:\资料\研究生\项目\工程文件\ArcEngine样本采集管理\算法\Matrix Operations\Matrix Operations\bin\Debug\Matrix Operations.exe.config
+E:\资料\研究生\项目\工程文件\ArcEngine样本采集管理\算法\Matrix Operations\Matrix Operations\bin\Debug\Matrix Operations.exe
+E:\资料\研究生\项目\工程文件\ArcEngine样本采集管理\算法\Matrix Operations\Matrix Operations\bin\Debug\Matrix Operations.pdb
+E:\资料\研究生\项目\工程文件\ArcEngine样本采集管理\算法\Matrix Operations\Matrix Operations\obj\Debug\Matrix Operations.csprojAssemblyReference.cache
+E:\资料\研究生\项目\工程文件\ArcEngine样本采集管理\算法\Matrix Operations\Matrix Operations\obj\Debug\Matrix Operations.csproj.CoreCompileInputs.cache
+E:\资料\研究生\项目\工程文件\ArcEngine样本采集管理\算法\Matrix Operations\Matrix Operations\obj\Debug\Matrix Operations.exe
+E:\资料\研究生\项目\工程文件\ArcEngine样本采集管理\算法\Matrix Operations\Matrix Operations\obj\Debug\Matrix Operations.pdb
